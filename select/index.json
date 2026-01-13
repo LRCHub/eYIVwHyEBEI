@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "オケオーール！",
+  "base_artist": "Nolzy",
+  "createdAt": "2026-01-13T18:39:02.781954Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "オケオーール!",
+      "artist": "Nolzy",
+      "has_synced": false,
+      "path": "select/pl_01_オケオーール!_Nolzy.txt"
+    }
+  ]
+}
